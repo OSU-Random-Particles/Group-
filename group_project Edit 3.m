@@ -1,4 +1,4 @@
- clear all;
+clear all;
 close all;
 clc;
 % Plot the circle
@@ -8,11 +8,11 @@ radius_incre = 5; % The increasement of readius while for-loop
 radius = 0; % Radius
 x_circle = zeros;
 y_circle = zeros;
-for j = 1:number_circle
+for n = 1:number_circle
     radius = radius + radius_incre; % Radius increased 
-    for k = 1:length(theta)
-        x_circle(k) = radius * cos(theta(k));
-        y_circle(k) = radius * sin(theta(k));
+    for m = 1:length(theta)
+        x_circle(m) = radius * cos(theta(m));
+        y_circle(m) = radius * sin(theta(m));
     end
     plot(x_circle,y_circle,'black-')
     hold on
