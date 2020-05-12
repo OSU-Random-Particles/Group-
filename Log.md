@@ -16,3 +16,6 @@
 -Made another algorithm for Monte Carlo stuff
   -scatter with a lot of random walks
   - Basically just looped around the other code and made it a scatter plot
+5/12/2020 Edit 3:
+
+- Plot the circles.
