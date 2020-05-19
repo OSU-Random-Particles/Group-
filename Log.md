@@ -27,3 +27,4 @@
 - Added Histogram 
 - Added Sigma Calculation
 - Added User Input and Sigma Output
+- Changed J For-Loop to iterate to user-inputed value
