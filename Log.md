@@ -20,3 +20,10 @@
 5/12/2020 Edit 3:
 
 - Plot the circles.
+
+5/18/2020
+
+- Sectioned Code
+- Added Histogram 
+- Added Sigma Calculation
+- Added User Input and Sigma Output
