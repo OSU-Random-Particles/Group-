@@ -28,3 +28,7 @@
 - Added Sigma Calculation
 - Added User Input and Sigma Output
 - Changed J For-Loop to iterate to user-inputed value
+
+5/19/2020 Edit 5
+- Cleaned up the output (added axis labels)
+- Added a Gausian to the histogram
