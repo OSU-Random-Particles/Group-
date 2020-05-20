@@ -32,3 +32,6 @@
 5/19/2020 Edit 5
 - Cleaned up the output (added axis labels)
 - Added a Gausian to the histogram
+
+5/20/2020 Edit 6
+- Change the standard derviation part to find diffusivity
