@@ -35,3 +35,11 @@
 
 5/20/2020 Edit 6
 - Change the standard derviation part to find diffusivity
+
+5/24/2020 Edit 7
+- Set circles for measurable data up to radius = 10
+- Show trendline for histogram 
+- Display Standard deviation in output
+- Reformatted input/output
+- Added axis labels for both figures
+- Squared the plot for brownian plot 
