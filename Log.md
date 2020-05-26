@@ -43,3 +43,7 @@
 - Reformatted input/output
 - Added axis labels for both figures
 - Squared the plot for brownian plot 
+
+5/26/2020 Edit 8
+- cleaned up the display a little
+- made the bounds and circles variable with step size
